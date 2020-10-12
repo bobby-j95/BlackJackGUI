@@ -1,0 +1,9 @@
+https://codereview.stackexchange.com/questions/68149/text-based-blackjack-game
+
+http://www.chegg.com/homework-help/questions-and-answers/implement-blackjack-game-code-include-hit-stand-double-split-surrender-game-10-rounds-inst-q3403002
+
+https://www.coursehero.com/file/5696620/BlackjackGUI/?justUnlocked=1#/quiz
+
+http://www.chegg.com/homework-help/questions-and-answers/please-help-write-java-application-allows-user-play-blackjack-computer-computer-act-house--q6150029
+
+http://math.hws.edu/eck/cs124/javanotes4/c5/ex-5-4-answer.html
